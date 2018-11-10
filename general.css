@@ -1,0 +1,22 @@
+body{
+	background:black;
+	text-align:center;
+}
+
+button{
+	color:black;
+	width:64;
+	height:24;
+	margin:15;
+}
+
+.myImage{
+	border-style:solid;
+	border-width:5px;
+	border-color:white;
+	cursor: pointer;
+}
+
+.selectButtons{
+	margin:24px;
+}
