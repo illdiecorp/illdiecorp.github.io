@@ -1,0 +1,13 @@
+.cover{
+	margin:32px;
+	height:300px;
+}
+
+.masterpage{
+	margin:32px;
+}
+
+body{
+	background:black;
+	text-align:center;
+}
