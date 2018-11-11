@@ -10,6 +10,7 @@ button{
 	border-width:5px;
 	border-color:white;
 	max-width:90%;
+	margin-bottom:32px;
 }
 
 .mbut{
